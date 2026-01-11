@@ -43,7 +43,7 @@ I specialize in building **scalable cloud applications, CI/CD pipelines, and pro
 - 💼 [LinkedIn](https://www.linkedin.com/in/aditya-329856381/)  
 - 📺 [YouTube - AdiTechSphere](#)  
 - 📝 [Medium Blogs](https://medium.com/@aaditya.sirsam)
-- 🖥️ [Portfolio Website](https://adityasirsam.me)  
+- 🖥️ [Portfolio Website](https://www.zapfolio.in/aditya1_official-neon)  
 
 ---
 
